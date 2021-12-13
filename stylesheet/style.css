@@ -1,0 +1,140 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color:pink;
+}
+
+table, th, td {
+ border: 1px solid Gray;
+ }
+ table{
+ 	border-collapse: collapse;
+ 	width: 80%;
+ 	margin-right: 10%;
+ 	margin-left: 10%;
+}
+
+#apex{
+	background-color:#004d80;
+	height:09%;
+	width: 100%;
+	margin-bottom:0px;
+	padding: 0px;
+	
+}
+#apex02{
+	height:10%;
+	width: 100%;
+	background-color:#FF8C00;
+	margin: 0px;
+	padding: 1%;
+}
+
+#apex03{
+	height:cover;
+	width: 100% auto;
+	margin: 0px;
+	padding:0px;
+}
+
+.pagelink{
+
+	margin:06px;
+	padding-top: 09px;
+	padding-bottom: 05px;
+	border-style: solid;
+	border-color: white;
+	border-width: 02px;
+	height: auto;
+	width:50%;
+	background-color:#004d80;
+	border-radius: 05px;
+}
+
+.linktext{
+	height: 100%;
+	width: auto;
+	color: white;
+	margin-bottom: 08px;
+	margin-top: 08px;
+	padding-right: 12px;
+	padding-left: 12px;
+	
+}
+
+#footer{
+	background-color:#004d80;
+	height: auto;
+	width: 1550px;
+	margin: 0px;
+}
+
+#group{
+	height:100%;
+	width: auto;
+	text-align: center;
+	display: flex;
+	margin: auto;
+	width: 80%;
+}
+
+
+#banner{
+	height:100%:auto;
+	width:100%;
+	flex-wrap: cover;
+}
+
+#branding {
+	height: 80%;
+	width: 100%;
+}
+
+#foot{
+	background-color: #004d80;
+	width: 100%;
+	height: auto;
+	text-align: center;
+	margin-bottom: 0px;
+	padding-top:03px;
+}
+
+#aboutext{
+	 margin-left:05%;
+	 margin-right:05%; 
+}
+.top{
+	background-color:#004d80;
+	color: white;
+	text-align: center;
+	height: 06%;
+	vertical-align: center;
+}
+
+#footext{
+color: white;	
+}
+
+#th{
+	background-color: green;
+	border-style: solid;
+	border-width: 03px;
+}
+ #reachdiv{
+ 	width: 82%;
+ 	margin-right: 9%;
+ 	margin-left: 09%;
+ }
+ #readtxt{
+ 	width: 86;
+ 	margin-right:07%;
+ 	margin-left: 07%;
+ }
+ #formbody{
+ 	width: 82%;
+ 	margin-right: 9%;
+ 	margin-left: 09%;
+ 	text-align: center;
+ }
+
+ 
