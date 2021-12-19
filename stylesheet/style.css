@@ -31,8 +31,8 @@ table, th, td {
 }
 
 #apex03{
-	height:cover;
-	width: 100% auto;
+	
+	width: 100%;
 	margin: 0px;
 	padding:0px;
 }
@@ -81,9 +81,8 @@ table, th, td {
 
 
 #banner{
-	height:100% auto;
+	height:100%;
 	width:100%;
-	flex-wrap: cover;
 }
 
 #branding {
@@ -127,7 +126,7 @@ color: white;
  	margin-left: 09%;
  }
  #readtxt{
- 	width: 86;
+ 	width: 86%;
  	margin-right:07%;
  	margin-left: 07%;
  }
